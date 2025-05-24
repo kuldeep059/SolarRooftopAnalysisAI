@@ -42,6 +42,9 @@ Follow these steps to set up and run the project on your local machine.
 * `pip` (Python package installer)
 * Git
 
+### Implementation
+
+
 ### 1. Clone the Repository
 
 ```bash
