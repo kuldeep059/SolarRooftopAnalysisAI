@@ -45,8 +45,9 @@ Follow these steps to set up and run the project on your local machine.
 ### Implementation
 
 
-### 1. Clone the Repository
-
-```bash
-git clone [YOUR_GITHUB_REPO_URL]
-cd solar_rooftop_analysis_tool # Or whatever your project folder is named
+# 1. Install python 3.7 or newer
+# 2. Install required libraries Streamlit,openai and python-dotenv (pip install streamlit openai python-dotenv)
+# 3. Create a account in OpenRouter and Get Your API Key
+# 4. Make changes in .env file with your actual API Key 
+# 5. Run this command to run 'streamlit run app.py'
+# 6. Now you can see in your browser and use this tool
